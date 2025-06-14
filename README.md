@@ -19,3 +19,24 @@ To run any model locally:
 git clone https://github.com/Saidurga13/neural_network_models
 cd neural_network_models/breast-cancer-detection
 pip install -r requirements.txt
+
+🗃️ Contents
+📓 Jupyter Notebook with full model
+
+🧠 Saved .h5 Keras model file
+
+📊 Accuracy & Loss visualization
+
+📁 Expandable for more datasets (Iris, MNIST, etc.)
+
+✨ Coming Soon
+Iris classification using NN
+
+Image classification on MNIST
+
+Text sentiment classification using LSTM
+
+🤝 Let's Connect
+🔗 My Kaggle Profile (htttps://www.kaggle.com/code/psaidurga/)
+
+📫 Reach me at: saidurgasud@gmail.com
