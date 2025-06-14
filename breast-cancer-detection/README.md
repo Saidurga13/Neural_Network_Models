@@ -44,8 +44,3 @@ This project demonstrates how to build a neural network model using TensorFlow/K
 | `requirements.txt`              | List of Python libraries to install         |
 
 ---
-
-## ▶️ How to Run
-
-1. Clone the repo: git clone https://github.com/neural_network_models/breast-cancer-detection.git
-cd breast-cancer-detection
